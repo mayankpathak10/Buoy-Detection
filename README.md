@@ -8,4 +8,4 @@ Buoy detection is implemented in 3 stages:
        ( Still needs to be worked on)
 
 The output video frame looks like as follows:
-![]('ColorSeg/Ouputs/Part3/Frames/out_193.jpg') 
+![Part-3 Output]('ColorSeg/Ouputs/Part3/Frames/out_193.jpg') 
